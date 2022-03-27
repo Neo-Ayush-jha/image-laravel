@@ -14,8 +14,8 @@
         <div class="container mx-5">
             <a href="" class="navbar-brand">Image</a>
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="" class="nav-link underline hover:decoration-dashed">Home</a></li>
-                <li class="nav-item"><a href="" class="nav-link underline hover:decoration-dashed">About</a></li>
+                <li class="nav-item"><a href="/" class="nav-link underline hover:decoration-dashed">Home</a></li>
+                <li class="nav-item"><a href="/create" class="nav-link underline hover:decoration-dashed">Create</a></li>
                 <li class="nav-item"><a href="" class="nav-link underline hover:decoration-dashed">login</a></li>
             </ul>
         </div>
